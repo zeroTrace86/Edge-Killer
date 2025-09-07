@@ -15,3 +15,9 @@ Also includes a watchdog to make sure Edge doesn’t sneak back in when you’re
 ```powershell
 # Run the script
 powershell.exe -ExecutionPolicy Bypass -File .\edgekiller.ps1
+```
+# Disclaimer
+
+Only tested on Windows 11. I am not responsible for any damage this may cause to your system. 
+
+This script is provided as is. Use at your own risk. It will not be updated unless Microsoft does something stupid that breaks it.
